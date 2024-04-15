@@ -100,6 +100,6 @@ models_list = [
 model_map = {
     "gpt-3.5-turbo": "claude-3-haiku-20240307",
     "gpt-3.5-turbo-0613": "claude-3-haiku-20240307",
-    "gpt-4": "claude-3-opus-20240229",
+    "gpt-4-turbo-preview": "claude-3-sonnet-20240229",
     "gpt-4-0613": "claude-3-opus-20240229",
 }
